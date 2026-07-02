@@ -1,0 +1,42 @@
+name: RSS Aggregator
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Run Aggregator Script
+        run: node aggregator.js
+
+      - name: Commit and push changes
+        env:
+          GIT_NAME: ${{ secrets.USER_NAME }}
+          GIT_EMAIL: ${{ secrets.USER_EMAIL }}
+        run: |
+          git config --global user.name "$GIT_NAME"
+          git config --global user.email "$GIT_EMAIL"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No new updates to commit."
+          else
+            git commit -m "docs: append latest tech stack articles"
+            git push
+          fi

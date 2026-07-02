@@ -1,0 +1,14 @@
+name: Deploy Client
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder Client Build
+        run: echo "Add client build commands here (e.g., npm run build)"
+      - name: Placeholder Client Deploy
+        run: echo "Add client deploy commands here (e.g., AWS S3 sync, Vercel, etc.)"
