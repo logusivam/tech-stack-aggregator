@@ -1,0 +1,14 @@
+name: Deploy Server
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Placeholder Server Build
+        run: echo "Add server build commands here"
+      - name: Placeholder Server Deploy
+        run: echo "Add server deploy commands here (e.g., AWS EC2, Heroku, Render)"
