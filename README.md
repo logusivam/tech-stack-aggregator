@@ -21,3 +21,24 @@
 - [Production-Ready Agents Need A Production-Ready Data Platform](https://www.mongodb.com/company/blog/innovation/production-ready-agents-need-production-ready-data-platform)
 - [Agentic Supplier Management with MongoDB Atlas, Voyage AI, and Multi-Modal Search](https://www.mongodb.com/company/blog/innovation/agentic-supplier-management-with-atlas-voyage-ai-multi-modal-search)
 - [Fighting Tool Sprawl: The Case for AI Tool Registries](https://www.mongodb.com/company/blog/technical/fighting-tool-sprawl-case-for-ai-tool-registries)
+
+## 2026-07-03
+
+### Python
+- [Packaging Council Inaugural Election Dates](https://blog.python.org/2026/06/2026-packaging-council-election-dates/)
+- [Mitigated API authentication bypass for python.org download metadata](https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/)
+- [Python 3.15.0 beta 3 is here!](https://blog.python.org/2026/06/python-3150-beta-3/)
+- [Python 3.14.6 and 3.13.14 are now available!](https://blog.python.org/2026/06/python-3146-31314/)
+- [Python 3.15.0 beta 2 is here!](https://blog.python.org/2026/06/python-3150-beta-2/)
+
+### SQL (PostgreSQL)
+- [pgtt v4.5 has been released
+](https://www.postgresql.org/about/news/pgtt-v45-has-been-released-3330/)
+- [pg_qualstats 2.1.4 is out!
+](https://www.postgresql.org/about/news/pg_qualstats-214-is-out-3327/)
+- [pg_stat_kcache 2.3.2 is out!
+](https://www.postgresql.org/about/news/pg_stat_kcache-232-is-out-3328/)
+- [pgEdge Announces ColdFront for PostgreSQL, Seamlessly Uniting AI, Analytical and OLTP Workloads
+](https://www.postgresql.org/about/news/pgedge-announces-coldfront-for-postgresql-seamlessly-uniting-ai-analytical-and-oltp-workloads-3325/)
+- [IvorySQL 5.4 Released - Based on PostgreSQL 18.4 with AI Skills
+](https://www.postgresql.org/about/news/ivorysql-54-released-based-on-postgresql-184-with-ai-skills-3323/)
