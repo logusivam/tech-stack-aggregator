@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-07-03
+### Added
+- Integrated Angular, Python, and SQL (PostgreSQL) RSS feeds into the `aggregator.js` script.
+- Expanded `package.json` keywords and description to improve SEO for the newly added technologies.
+### Changed
+- Updated the automated GitHub Actions commit message to reflect the broader scope of full-stack and database articles.
+
 ## [1.0.0] - 2026-07-02
 ### Added
 - Initial release of the Tech Stack RSS Aggregator.

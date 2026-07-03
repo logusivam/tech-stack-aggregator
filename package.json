@@ -1,7 +1,7 @@
 {
   "name": "tech-stack-aggregator",
-  "version": "1.0.0",
-  "description": "An automated repository utilizing GitHub Actions to fetch, curate, and log the latest updates from core technologies (React, Node.js, MongoDB) directly into the README.",
+  "version": "1.1.0",
+  "description": "An automated repository utilizing GitHub Actions to fetch, curate, and log the latest updates from core technologies (React, Angular, Node.js, Python, MongoDB, SQL) directly into the README.",
   "main": "aggregator.js",
   "scripts": {
     "start": "node aggregator.js",
@@ -15,7 +15,10 @@
     "automation",
     "nodejs",
     "react",
-    "mongodb"
+    "angular",
+    "python",
+    "mongodb",
+    "sql"
   ],
   "author": "Loganathan G P (@logusivam)",
   "license": "MIT",
