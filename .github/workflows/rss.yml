@@ -2,6 +2,7 @@ name: RSS Aggregator
 
 on:
   schedule:
+    # Runs at minute 0 past every 3rd hour (8 times a day)
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
@@ -33,10 +34,13 @@ jobs:
         run: |
           git config --global user.name "$GIT_NAME"
           git config --global user.email "$GIT_EMAIL"
+          
           git add README.md
+          
+          # If the script didn't append anything, this skips the commit
           if git diff --staged --quiet; then
             echo "No new updates to commit."
           else
-            git commit -m "docs: append latest tech stack articles"
+            git commit -m "docs: append latest full-stack and database articles"
             git push
           fi
