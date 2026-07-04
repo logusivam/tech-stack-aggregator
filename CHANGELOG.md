@@ -7,9 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-07-04
+### Changed
+- Replaced the brittle Angular Medium feed with the stable, native Tailwind CSS official RSS distribution channel to resolve persistent 404 routing errors.
+- Updated repository SEO parameters, keywords, and description blocks to align with Tailwind CSS.
+
 ## [1.1.1] - 2026-07-04
 ### Fixed
-- Fixed 404 breakdown on Angular data fetch by updating the feed pointer to point directly to the native `blog.angular.dev` XML distribution channel.
+- Attempted patch for Angular data fetch breakdown.
 
 ## [1.1.0] - 2026-07-03
 ### Added

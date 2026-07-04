@@ -8,7 +8,7 @@ const FEEDS = [
     { category: 'React', url: 'https://react.dev/rss.xml' },
     { category: 'Node.js', url: 'https://nodejs.org/en/feed/blog.xml' },
     { category: 'MongoDB', url: 'https://www.mongodb.com/blog/rss' },
-    { category: 'Angular', url: 'https://blog.angular.dev/rss.xml' },
+    { category: 'Tailwind CSS', url: 'https://tailwindcss.com/feeds/feed.xml' },
     { category: 'Python', url: 'https://blog.python.org/feeds/posts/default?alt=rss' },
     { category: 'SQL (PostgreSQL)', url: 'https://www.postgresql.org/news.rss' }
 ];
