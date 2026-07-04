@@ -1,6 +1,6 @@
 {
   "name": "tech-stack-aggregator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An automated repository utilizing GitHub Actions to fetch, curate, and log the latest updates from core technologies (React, Angular, Node.js, Python, MongoDB, SQL) directly into the README.",
   "main": "aggregator.js",
   "scripts": {
