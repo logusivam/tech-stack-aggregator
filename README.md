@@ -42,3 +42,12 @@
 ](https://www.postgresql.org/about/news/pgedge-announces-coldfront-for-postgresql-seamlessly-uniting-ai-analytical-and-oltp-workloads-3325/)
 - [IvorySQL 5.4 Released - Based on PostgreSQL 18.4 with AI Skills
 ](https://www.postgresql.org/about/news/ivorysql-54-released-based-on-postgresql-184-with-ai-skills-3323/)
+
+## 2026-07-04
+
+### Tailwind CSS
+- [Tailwind CSS v4.3: Scrollbars, new colors, and more](https://tailwindcss.com/blog/tailwindcss-v4-3)
+- [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- [Compass: A starter kit for online courses](https://tailwindcss.com/blog/2025-05-14-compass-course-starter-kit)
+- [Tailwind CSS v4.1: Text shadows, masks, and tons more](https://tailwindcss.com/blog/tailwindcss-v4-1)
+- [Tailwind UI is now Tailwind Plus](https://tailwindcss.com/blog/tailwind-plus)
