@@ -51,3 +51,15 @@
 - [Compass: A starter kit for online courses](https://tailwindcss.com/blog/2025-05-14-compass-course-starter-kit)
 - [Tailwind CSS v4.1: Text shadows, masks, and tons more](https://tailwindcss.com/blog/tailwindcss-v4-1)
 - [Tailwind UI is now Tailwind Plus](https://tailwindcss.com/blog/tailwind-plus)
+
+## 2026-07-05
+
+### SQL (PostgreSQL)
+- [pg_dbms_errlog v2.4 released
+](https://www.postgresql.org/about/news/pg_dbms_errlog-v24-released-3331/)
+- [pg-cdc Frustratingly simple Postgres change data capture to AWS S3
+](https://www.postgresql.org/about/news/pg-cdc-frustratingly-simple-postgres-change-data-capture-to-aws-s3-3315/)
+- [credcheck v5.0 has been released
+](https://www.postgresql.org/about/news/credcheck-v50-has-been-released-3329/)
+- [pg_dbms_lock v2.0 has been released
+](https://www.postgresql.org/about/news/pg_dbms_lock-v20-has-been-released-3332/)
