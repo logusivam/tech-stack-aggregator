@@ -63,3 +63,11 @@
 ](https://www.postgresql.org/about/news/credcheck-v50-has-been-released-3329/)
 - [pg_dbms_lock v2.0 has been released
 ](https://www.postgresql.org/about/news/pg_dbms_lock-v20-has-been-released-3332/)
+
+## 2026-07-06
+
+### SQL (PostgreSQL)
+- [PostgreSQL JDBC 42.7.12 Security Release
+](https://www.postgresql.org/about/news/postgresql-jdbc-42712-security-release-3340/)
+- [CloudNativePG 1.30.0 Released!
+](https://www.postgresql.org/about/news/cloudnativepg-1300-released-3337/)
