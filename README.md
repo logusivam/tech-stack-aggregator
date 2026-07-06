@@ -71,3 +71,9 @@
 ](https://www.postgresql.org/about/news/postgresql-jdbc-42712-security-release-3340/)
 - [CloudNativePG 1.30.0 Released!
 ](https://www.postgresql.org/about/news/cloudnativepg-1300-released-3337/)
+
+### SQL (PostgreSQL)
+- [pg_ivm 1.15 released
+](https://www.postgresql.org/about/news/pg_ivm-115-released-3338/)
+- [All 44 talks from POSETTE: An Event for Postgres 2026 are available on YouTube
+](https://www.postgresql.org/about/news/all-44-talks-from-posette-an-event-for-postgres-2026-are-available-on-youtube-3336/)
