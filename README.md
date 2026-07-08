@@ -87,3 +87,6 @@
 ](https://www.postgresql.org/about/news/autobase-290-released-3343/)
 - [PostgreSQL ODBC Version REL-18_00_0002 Released
 ](https://www.postgresql.org/about/news/postgresql-odbc-version-rel-18_00_0002-released-3341/)
+
+### Node.js
+- [Node.js 26.5.0 (Current)](https://nodejs.org/en/blog/release/v26.5.0)
