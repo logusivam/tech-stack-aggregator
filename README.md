@@ -90,3 +90,9 @@
 
 ### Node.js
 - [Node.js 26.5.0 (Current)](https://nodejs.org/en/blog/release/v26.5.0)
+
+### SQL (PostgreSQL)
+- [Barman 3.19.0 and 3.19.1 Released
+](https://www.postgresql.org/about/news/barman-3190-and-3191-released-3345/)
+- [pglayers: PostgreSQL extensions as stackable Docker layers
+](https://www.postgresql.org/about/news/pglayers-postgresql-extensions-as-stackable-docker-layers-3344/)
