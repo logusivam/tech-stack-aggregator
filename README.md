@@ -77,3 +77,13 @@
 ](https://www.postgresql.org/about/news/pg_ivm-115-released-3338/)
 - [All 44 talks from POSETTE: An Event for Postgres 2026 are available on YouTube
 ](https://www.postgresql.org/about/news/all-44-talks-from-posette-an-event-for-postgres-2026-are-available-on-youtube-3336/)
+
+## 2026-07-08
+
+### SQL (PostgreSQL)
+- [PDU: an open source PostgreSQL Data Unloader for full-database offline export and targeted WAL recovery
+](https://www.postgresql.org/about/news/pdu-an-open-source-postgresql-data-unloader-for-full-database-offline-export-and-targeted-wal-recovery-3335/)
+- [Autobase 2.9.0 released
+](https://www.postgresql.org/about/news/autobase-290-released-3343/)
+- [PostgreSQL ODBC Version REL-18_00_0002 Released
+](https://www.postgresql.org/about/news/postgresql-odbc-version-rel-18_00_0002-released-3341/)
