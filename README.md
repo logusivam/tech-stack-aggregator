@@ -96,3 +96,9 @@
 ](https://www.postgresql.org/about/news/barman-3190-and-3191-released-3345/)
 - [pglayers: PostgreSQL extensions as stackable Docker layers
 ](https://www.postgresql.org/about/news/pglayers-postgresql-extensions-as-stackable-docker-layers-3344/)
+
+## 2026-07-12
+
+### SQL (PostgreSQL)
+- [powa-archivist 5.2.0 is out!
+](https://www.postgresql.org/about/news/powa-archivist-520-is-out-3347/)
