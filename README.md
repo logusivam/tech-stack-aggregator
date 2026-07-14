@@ -102,3 +102,9 @@
 ### SQL (PostgreSQL)
 - [powa-archivist 5.2.0 is out!
 ](https://www.postgresql.org/about/news/powa-archivist-520-is-out-3347/)
+
+## 2026-07-14
+
+### SQL (PostgreSQL)
+- [Odyssey 1.5.1 released
+](https://www.postgresql.org/about/news/odyssey-151-released-3348/)
