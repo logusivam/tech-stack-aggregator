@@ -108,3 +108,16 @@
 ### SQL (PostgreSQL)
 - [Odyssey 1.5.1 released
 ](https://www.postgresql.org/about/news/odyssey-151-released-3348/)
+
+## 2026-07-16
+
+### Supabase
+- [Unified Logs is now in open beta](https://supabase.com/blog/unified-logs-open-beta)
+- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
+- [Agentic Coding on Supabase with OpenCode](https://supabase.com/blog/agentic-coding-on-supabase-with-opencode)
+- [Multigres v0.1 Alpha: an operating system for Postgres](https://supabase.com/blog/multigres-v0-1-alpha)
+- [Supabase Series F](https://supabase.com/blog/supabase-series-f)
+
+### SQL (PostgreSQL)
+- [PostgreSQL 19 Beta 2 Released!
+](https://www.postgresql.org/about/news/postgresql-19-beta-2-released-3350/)
