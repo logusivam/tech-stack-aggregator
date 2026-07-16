@@ -10,6 +10,7 @@ const FEEDS = [
     { category: 'MongoDB', url: 'https://www.mongodb.com/blog/rss' },
     { category: 'Tailwind CSS', url: 'https://tailwindcss.com/feeds/feed.xml' },
     { category: 'Python', url: 'https://blog.python.org/feeds/posts/default?alt=rss' },
+    { category: 'Supabase', url: 'https://supabase.com/feed.xml' },
     { category: 'SQL (PostgreSQL)', url: 'https://www.postgresql.org/news.rss' }
 ];
 

@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-07-16
+### Added
+- Integrated the official Supabase RSS developer feed into the automated data extraction pool.
+- Updated package keywords and descriptions to include Supabase for enhanced repository context.
+
 ## [1.2.0] - 2026-07-04
 ### Changed
 - Replaced the brittle Angular Medium feed with the stable, native Tailwind CSS official RSS distribution channel to resolve persistent 404 routing errors.
