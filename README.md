@@ -121,3 +121,8 @@
 ### SQL (PostgreSQL)
 - [PostgreSQL 19 Beta 2 Released!
 ](https://www.postgresql.org/about/news/postgresql-19-beta-2-released-3350/)
+
+## 2026-07-18
+
+### Python
+- [Python 3.15.0 beta 4 is here!](https://blog.python.org/2026/07/python-3150-beta-4/)
