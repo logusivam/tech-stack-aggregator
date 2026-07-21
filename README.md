@@ -126,3 +126,8 @@
 
 ### Python
 - [Python 3.15.0 beta 4 is here!](https://blog.python.org/2026/07/python-3150-beta-4/)
+
+## 2026-07-21
+
+### Node.js
+- [Monday, July 27, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases)
