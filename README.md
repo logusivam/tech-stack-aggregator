@@ -131,3 +131,6 @@
 
 ### Node.js
 - [Monday, July 27, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/july-2026-security-releases)
+
+### Supabase
+- [Supabase Pipelines is now in Public Alpha](https://supabase.com/blog/supabase-pipelines-public-alpha)
