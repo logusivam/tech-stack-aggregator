@@ -139,3 +139,6 @@
 
 ### Supabase
 - [Observability for every Supabase project with Grafana Cloud](https://supabase.com/blog/observability-for-every-supabase-project-with-grafana-cloud)
+
+### Python
+- [Get Ready: 2026 Python Packaging Council Nominations Opening Soon!](https://blog.python.org/2026/07/2026-packaging-council-nominations/)
