@@ -134,3 +134,8 @@
 
 ### Supabase
 - [Supabase Pipelines is now in Public Alpha](https://supabase.com/blog/supabase-pipelines-public-alpha)
+
+## 2026-07-23
+
+### Supabase
+- [Observability for every Supabase project with Grafana Cloud](https://supabase.com/blog/observability-for-every-supabase-project-with-grafana-cloud)
