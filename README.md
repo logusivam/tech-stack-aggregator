@@ -142,3 +142,8 @@
 
 ### Python
 - [Get Ready: 2026 Python Packaging Council Nominations Opening Soon!](https://blog.python.org/2026/07/2026-packaging-council-nominations/)
+
+## 2026-07-24
+
+### Node.js
+- [Check out the New Node.js API Documentation Preview](https://nodejs.org/en/blog/announcements/new-api-docs-beta)
