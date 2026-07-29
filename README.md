@@ -153,3 +153,9 @@
 ### Node.js
 - [Node.js 26.5.1 (Current)](https://nodejs.org/en/blog/release/v26.5.1)
 - [Node.js 22.23.2 (LTS)](https://nodejs.org/en/blog/release/v22.23.2)
+
+### Node.js
+- [Node.js 24.18.1 (LTS)](https://nodejs.org/en/blog/release/v24.18.1)
+
+### Supabase
+- [Sign in with ChatGPT is in beta on Supabase](https://supabase.com/blog/sign-in-with-chatgpt-beta)
