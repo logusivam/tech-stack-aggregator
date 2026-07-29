@@ -147,3 +147,9 @@
 
 ### Node.js
 - [Check out the New Node.js API Documentation Preview](https://nodejs.org/en/blog/announcements/new-api-docs-beta)
+
+## 2026-07-29
+
+### Node.js
+- [Node.js 26.5.1 (Current)](https://nodejs.org/en/blog/release/v26.5.1)
+- [Node.js 22.23.2 (LTS)](https://nodejs.org/en/blog/release/v22.23.2)
