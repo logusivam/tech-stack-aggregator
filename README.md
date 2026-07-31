@@ -159,3 +159,12 @@
 
 ### Supabase
 - [Sign in with ChatGPT is in beta on Supabase](https://supabase.com/blog/sign-in-with-chatgpt-beta)
+
+## 2026-07-31
+
+### Supabase
+- [Introducing Supabase Evals](https://supabase.com/blog/introducing-supabase-evals)
+
+### SQL (PostgreSQL)
+- [plRuby
+](https://www.postgresql.org/about/news/plruby-3349/)
