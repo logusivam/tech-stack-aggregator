@@ -168,3 +168,9 @@
 ### SQL (PostgreSQL)
 - [plRuby
 ](https://www.postgresql.org/about/news/plruby-3349/)
+
+## 2026-08-03
+
+### Node.js
+- [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0)
+- [Node.js 24.19.0 (LTS)](https://nodejs.org/en/blog/release/v24.19.0)
