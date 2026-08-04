@@ -184,3 +184,6 @@
 ](https://www.postgresql.org/about/news/pgbackrest-2590-released-3355/)
 - [pgAdmin 4 v9.17 Released
 ](https://www.postgresql.org/about/news/pgadmin-4-v917-released-3356/)
+
+### Python
+- [Python 3.15.0 candidate 1 is here!](https://blog.python.org/2026/08/python-3150-rc1/)
