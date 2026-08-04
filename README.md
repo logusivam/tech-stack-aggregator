@@ -174,3 +174,13 @@
 ### Node.js
 - [Node.js 26.6.0 (Current)](https://nodejs.org/en/blog/release/v26.6.0)
 - [Node.js 24.19.0 (LTS)](https://nodejs.org/en/blog/release/v24.19.0)
+
+## 2026-08-04
+
+### SQL (PostgreSQL)
+- [Announcing E-Maj 5.0.0.
+](https://www.postgresql.org/about/news/announcing-e-maj-500-3353/)
+- [pgBackRest 2.59.0 Released
+](https://www.postgresql.org/about/news/pgbackrest-2590-released-3355/)
+- [pgAdmin 4 v9.17 Released
+](https://www.postgresql.org/about/news/pgadmin-4-v917-released-3356/)
