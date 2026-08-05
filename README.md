@@ -195,3 +195,6 @@
 
 ### Supabase
 - [Postgres Changes gets AND filters, new operators, and column selection](https://supabase.com/blog/postgres-changes-filters-and-column-selection)
+
+### Node.js
+- [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0)
