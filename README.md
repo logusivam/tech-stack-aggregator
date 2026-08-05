@@ -187,3 +187,11 @@
 
 ### Python
 - [Python 3.15.0 candidate 1 is here!](https://blog.python.org/2026/08/python-3150-rc1/)
+
+## 2026-08-05
+
+### Python
+- [Python 3.14.7 and 3.13.15 are now available!](https://blog.python.org/2026/08/python-3147-31315/)
+
+### Supabase
+- [Postgres Changes gets AND filters, new operators, and column selection](https://supabase.com/blog/postgres-changes-filters-and-column-selection)
