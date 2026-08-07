@@ -198,3 +198,11 @@
 
 ### Node.js
 - [Node.js 26.7.0 (Current)](https://nodejs.org/en/blog/release/v26.7.0)
+
+## 2026-08-07
+
+### SQL (PostgreSQL)
+- [Postgres Summit US 2026 Schedule is now live!
+](https://www.postgresql.org/about/news/postgres-summit-us-2026-schedule-is-now-live-3359/)
+- [Autobase 2.10 released
+](https://www.postgresql.org/about/news/autobase-210-released-3357/)
