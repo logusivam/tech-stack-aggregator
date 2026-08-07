@@ -206,3 +206,6 @@
 ](https://www.postgresql.org/about/news/postgres-summit-us-2026-schedule-is-now-live-3359/)
 - [Autobase 2.10 released
 ](https://www.postgresql.org/about/news/autobase-210-released-3357/)
+
+### Supabase
+- [Supabase is now a connector on Perplexity Computer](https://supabase.com/blog/supabase-is-now-a-connector-on-perplexity-computer)
