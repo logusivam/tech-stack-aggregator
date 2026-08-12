@@ -209,3 +209,11 @@
 
 ### Supabase
 - [Supabase is now a connector on Perplexity Computer](https://supabase.com/blog/supabase-is-now-a-connector-on-perplexity-computer)
+
+## 2026-08-12
+
+### SQL (PostgreSQL)
+- [Dasha - performance dashboard
+](https://www.postgresql.org/about/news/dasha-performance-dashboard-3360/)
+- [New Modern JDBC Driver for PostgreSQL
+](https://www.postgresql.org/about/news/new-modern-jdbc-driver-for-postgresql-3354/)
