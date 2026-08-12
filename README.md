@@ -217,3 +217,9 @@
 ](https://www.postgresql.org/about/news/dasha-performance-dashboard-3360/)
 - [New Modern JDBC Driver for PostgreSQL
 ](https://www.postgresql.org/about/news/new-modern-jdbc-driver-for-postgresql-3354/)
+
+### SQL (PostgreSQL)
+- [SynchDB 1.4 Released - Oracle Container Database Support and TLS-Secured FDW Snapshots
+](https://www.postgresql.org/about/news/synchdb-14-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-3362/)
+- [plx : Write PostgreSQL functions in the language you already know.
+](https://www.postgresql.org/about/news/plx-write-postgresql-functions-in-the-language-you-already-know-3358/)
