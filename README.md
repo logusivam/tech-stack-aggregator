@@ -228,3 +228,10 @@
 
 ### Python
 - [Python 3.12.14, 3.11.16 and 3.10.21 are now available!](https://blog.python.org/2026/08/python-31214-31116-31021/)
+
+### Python
+- [Announcing the Packaging Council Election Candidates for 2026!](https://blog.python.org/2026/08/2026-packaging-council-nominees/)
+
+### SQL (PostgreSQL)
+- [PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released!
+](https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365/)
