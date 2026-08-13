@@ -223,3 +223,8 @@
 ](https://www.postgresql.org/about/news/synchdb-14-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-3362/)
 - [plx : Write PostgreSQL functions in the language you already know.
 ](https://www.postgresql.org/about/news/plx-write-postgresql-functions-in-the-language-you-already-know-3358/)
+
+## 2026-08-13
+
+### Python
+- [Python 3.12.14, 3.11.16 and 3.10.21 are now available!](https://blog.python.org/2026/08/python-31214-31116-31021/)
