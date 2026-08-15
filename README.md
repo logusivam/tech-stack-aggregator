@@ -235,3 +235,8 @@
 ### SQL (PostgreSQL)
 - [PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24 and 19 Beta 3 Released!
 ](https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365/)
+
+## 2026-08-15
+
+### Node.js
+- [Node.js Interactive 2026: A Recap](https://nodejs.org/en/blog/events/nodejs-interactive-2026)
