@@ -240,3 +240,9 @@
 
 ### Node.js
 - [Node.js Interactive 2026: A Recap](https://nodejs.org/en/blog/events/nodejs-interactive-2026)
+
+## 2026-08-17
+
+### SQL (PostgreSQL)
+- [powa-archivist 5.3.0 is out!
+](https://www.postgresql.org/about/news/powa-archivist-530-is-out-3366/)
