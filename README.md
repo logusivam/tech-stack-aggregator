@@ -246,3 +246,8 @@
 ### SQL (PostgreSQL)
 - [powa-archivist 5.3.0 is out!
 ](https://www.postgresql.org/about/news/powa-archivist-530-is-out-3366/)
+
+## 2026-08-18
+
+### Supabase
+- [Connect client traces to your logs](https://supabase.com/blog/connect-client-traces-to-your-logs)
