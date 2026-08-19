@@ -251,3 +251,9 @@
 
 ### Supabase
 - [Connect client traces to your logs](https://supabase.com/blog/connect-client-traces-to-your-logs)
+
+## 2026-08-19
+
+### SQL (PostgreSQL)
+- [Loongson loong64 packages on apt.postgresql.org
+](https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/)
