@@ -257,3 +257,9 @@
 ### SQL (PostgreSQL)
 - [Loongson loong64 packages on apt.postgresql.org
 ](https://www.postgresql.org/about/news/loongson-loong64-packages-on-aptpostgresqlorg-3351/)
+
+## 2026-08-21
+
+### SQL (PostgreSQL)
+- [LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser
+](https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/)
