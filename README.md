@@ -263,3 +263,8 @@
 ### SQL (PostgreSQL)
 - [LibreDB Studio: an open source, self-hosted SQL IDE for PostgreSQL in the browser
 ](https://www.postgresql.org/about/news/libredb-studio-an-open-source-self-hosted-sql-ide-for-postgresql-in-the-browser-3368/)
+
+## 2026-08-22
+
+### Python
+- [The Python documentation is now available in Russian!](https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian/)
