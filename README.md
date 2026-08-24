@@ -268,3 +268,11 @@
 
 ### Python
 - [The Python documentation is now available in Russian!](https://blog.python.org/2026/08/the-python-documentation-is-now-available-in-russian/)
+
+## 2026-08-24
+
+### Python
+- [RISC-V is now officially supported by CPython!](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+
+### Supabase
+- [Enterprise-managed auth for the Supabase MCP server](https://supabase.com/blog/enterprise-managed-auth-for-the-supabase-mcp-server)
