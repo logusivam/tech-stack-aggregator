@@ -276,3 +276,9 @@
 
 ### Supabase
 - [Enterprise-managed auth for the Supabase MCP server](https://supabase.com/blog/enterprise-managed-auth-for-the-supabase-mcp-server)
+
+## 2026-08-25
+
+### SQL (PostgreSQL)
+- [pg_statviz 1.2 released with PostgreSQL 19 support and new features
+](https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/)
