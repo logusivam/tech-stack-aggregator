@@ -282,3 +282,9 @@
 ### SQL (PostgreSQL)
 - [pg_statviz 1.2 released with PostgreSQL 19 support and new features
 ](https://www.postgresql.org/about/news/pg_statviz-12-released-with-postgresql-19-support-and-new-features-3369/)
+
+## 2026-08-26
+
+### Node.js
+- [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0)
+- [Node.js 24.20.0 (LTS)](https://nodejs.org/en/blog/release/v24.20.0)
