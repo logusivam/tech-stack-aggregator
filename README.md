@@ -288,3 +288,8 @@
 ### Node.js
 - [Node.js 26.8.0 (Current)](https://nodejs.org/en/blog/release/v26.8.0)
 - [Node.js 24.20.0 (LTS)](https://nodejs.org/en/blog/release/v24.20.0)
+
+## 2026-08-27
+
+### Node.js
+- [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1)
