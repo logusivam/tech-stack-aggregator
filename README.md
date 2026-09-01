@@ -293,3 +293,8 @@
 
 ### Node.js
 - [Node.js 26.8.1 (Current)](https://nodejs.org/en/blog/release/v26.8.1)
+
+## 2026-09-01
+
+### Python
+- [Python 3.15.0 candidate 2 is here!](https://blog.python.org/2026/09/python-3150-rc2/)
