@@ -298,3 +298,8 @@
 
 ### Python
 - [Python 3.15.0 candidate 2 is here!](https://blog.python.org/2026/09/python-3150-rc2/)
+
+## 2026-09-02
+
+### Supabase
+- [Are Supabase docs agent-friendly? We didn't know, so we checked](https://supabase.com/blog/are-supabase-docs-agent-friendly)
