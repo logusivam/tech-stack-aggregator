@@ -303,3 +303,9 @@
 
 ### Supabase
 - [Are Supabase docs agent-friendly? We didn't know, so we checked](https://supabase.com/blog/are-supabase-docs-agent-friendly)
+
+## 2026-09-05
+
+### SQL (PostgreSQL)
+- [PGConf India 2027 - Dates Announced and CFP Open
+](https://www.postgresql.org/about/news/pgconf-india-2027-dates-announced-and-cfp-open-3370/)
