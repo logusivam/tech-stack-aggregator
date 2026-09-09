@@ -320,3 +320,13 @@
 ](https://www.postgresql.org/about/news/postgresql-anonymizer-32-faster-pseudonymization-3373/)
 - [Autobase 2.11 released
 ](https://www.postgresql.org/about/news/autobase-211-released-3374/)
+
+### React
+- [React 19.3](https://react.dev/blog/2026/09/09/react-19-3)
+
+### Node.js
+- [Node.js 26.8.2 (Current)](https://nodejs.org/en/blog/release/v26.8.2)
+- [Node.js 24.21.0 (LTS)](https://nodejs.org/en/blog/release/v24.21.0)
+
+### Tailwind CSS
+- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
