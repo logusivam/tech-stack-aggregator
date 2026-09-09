@@ -309,3 +309,14 @@
 ### SQL (PostgreSQL)
 - [PGConf India 2027 - Dates Announced and CFP Open
 ](https://www.postgresql.org/about/news/pgconf-india-2027-dates-announced-and-cfp-open-3370/)
+
+## 2026-09-09
+
+### Supabase
+- [Supabase is now available in Gemini Enterprise](https://supabase.com/blog/supabase-is-now-available-in-gemini-enterprise)
+
+### SQL (PostgreSQL)
+- [PostgreSQL Anonymizer 3.2 : Faster Pseudonymization
+](https://www.postgresql.org/about/news/postgresql-anonymizer-32-faster-pseudonymization-3373/)
+- [Autobase 2.11 released
+](https://www.postgresql.org/about/news/autobase-211-released-3374/)
