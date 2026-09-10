@@ -330,3 +330,11 @@
 
 ### Tailwind CSS
 - [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+
+## 2026-09-10
+
+### SQL (PostgreSQL)
+- [PostgreSQL Migrator 1.0 : first stable release
+](https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/)
+- [pg_vault_tde v1.7.1 : Transparent Data Encryption for PostgreSQL 17 and 18
+](https://www.postgresql.org/about/news/pg_vault_tde-v171-transparent-data-encryption-for-postgresql-17-and-18-3376/)
