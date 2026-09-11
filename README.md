@@ -338,3 +338,9 @@
 ](https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/)
 - [pg_vault_tde v1.7.1 : Transparent Data Encryption for PostgreSQL 17 and 18
 ](https://www.postgresql.org/about/news/pg_vault_tde-v171-transparent-data-encryption-for-postgresql-17-and-18-3376/)
+
+## 2026-09-11
+
+### SQL (PostgreSQL)
+- [CERN PGDay 2027: Announcement and CfP
+](https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/)
