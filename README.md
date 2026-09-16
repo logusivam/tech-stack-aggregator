@@ -350,3 +350,6 @@
 ### SQL (PostgreSQL)
 - [pgAssistant 3.8.0 : continuous improvement loop for Postgres
 ](https://www.postgresql.org/about/news/pgassistant-380-continuous-improvement-loop-for-postgres-3378/)
+
+### Node.js
+- [Node.js 26.9.0 (Current)](https://nodejs.org/en/blog/release/v26.9.0)
