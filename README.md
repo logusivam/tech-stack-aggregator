@@ -344,3 +344,9 @@
 ### SQL (PostgreSQL)
 - [CERN PGDay 2027: Announcement and CfP
 ](https://www.postgresql.org/about/news/cern-pgday-2027-announcement-and-cfp-3375/)
+
+## 2026-09-16
+
+### SQL (PostgreSQL)
+- [pgAssistant 3.8.0 : continuous improvement loop for Postgres
+](https://www.postgresql.org/about/news/pgassistant-380-continuous-improvement-loop-for-postgres-3378/)
