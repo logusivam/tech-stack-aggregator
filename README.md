@@ -353,3 +353,9 @@
 
 ### Node.js
 - [Node.js 26.9.0 (Current)](https://nodejs.org/en/blog/release/v26.9.0)
+
+## 2026-09-17
+
+### SQL (PostgreSQL)
+- [pgAdmin 4 v9.18 Released
+](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/)
