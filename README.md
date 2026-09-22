@@ -359,3 +359,9 @@
 ### SQL (PostgreSQL)
 - [pgAdmin 4 v9.18 Released
 ](https://www.postgresql.org/about/news/pgadmin-4-v918-released-3381/)
+
+## 2026-09-22
+
+### SQL (PostgreSQL)
+- [PostgresCompare 2.2.0 Released
+](https://www.postgresql.org/about/news/postgrescompare-220-released-3382/)
