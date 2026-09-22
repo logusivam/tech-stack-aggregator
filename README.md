@@ -369,3 +369,10 @@
 ### SQL (PostgreSQL)
 - [pgsql-test: Real Postgres Testing for Faster Development Loops
 ](https://www.postgresql.org/about/news/pgsql-test-real-postgres-testing-for-faster-development-loops-3380/)
+
+### Node.js
+- [Node.js 26.10.0 (Current)](https://nodejs.org/en/blog/release/v26.10.0)
+
+### SQL (PostgreSQL)
+- [SQL Manager for PostgreSQL 7.0: meet the AI Assistant
+](https://www.postgresql.org/about/news/sql-manager-for-postgresql-70-meet-the-ai-assistant-3379/)
