@@ -365,3 +365,7 @@
 ### SQL (PostgreSQL)
 - [PostgresCompare 2.2.0 Released
 ](https://www.postgresql.org/about/news/postgrescompare-220-released-3382/)
+
+### SQL (PostgreSQL)
+- [pgsql-test: Real Postgres Testing for Faster Development Loops
+](https://www.postgresql.org/about/news/pgsql-test-real-postgres-testing-for-faster-development-loops-3380/)
