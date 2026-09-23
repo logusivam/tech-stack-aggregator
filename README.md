@@ -385,3 +385,6 @@
 
 ### Python
 - [The Python documentation is now available in Persian](https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/)
+
+### Node.js
+- [Node.js 22.23.3 (LTS)](https://nodejs.org/en/blog/release/v22.23.3)
