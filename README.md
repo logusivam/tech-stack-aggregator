@@ -376,3 +376,9 @@
 ### SQL (PostgreSQL)
 - [SQL Manager for PostgreSQL 7.0: meet the AI Assistant
 ](https://www.postgresql.org/about/news/sql-manager-for-postgresql-70-meet-the-ai-assistant-3379/)
+
+## 2026-09-23
+
+### SQL (PostgreSQL)
+- [PgBouncer 1.26.0 released - Fixes three CVEs
+](https://www.postgresql.org/about/news/pgbouncer-1260-released-fixes-three-cves-3385/)
