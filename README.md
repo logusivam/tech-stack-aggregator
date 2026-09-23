@@ -382,3 +382,6 @@
 ### SQL (PostgreSQL)
 - [PgBouncer 1.26.0 released - Fixes three CVEs
 ](https://www.postgresql.org/about/news/pgbouncer-1260-released-fixes-three-cves-3385/)
+
+### Python
+- [The Python documentation is now available in Persian](https://blog.python.org/2026/09/the-python-documentation-is-now-available-in-persian/)
