@@ -388,3 +388,9 @@
 
 ### Node.js
 - [Node.js 22.23.3 (LTS)](https://nodejs.org/en/blog/release/v22.23.3)
+
+## 2026-09-24
+
+### SQL (PostgreSQL)
+- [PostgreSQL 19 Beta 4 Released!
+](https://www.postgresql.org/about/news/postgresql-19-beta-4-released-3386/)
