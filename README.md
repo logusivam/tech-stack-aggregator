@@ -394,3 +394,8 @@
 ### SQL (PostgreSQL)
 - [PostgreSQL 19 Beta 4 Released!
 ](https://www.postgresql.org/about/news/postgresql-19-beta-4-released-3386/)
+
+## 2026-09-26
+
+### Python
+- [The Python documentation is now available in German](https://blog.python.org/2026/09/python-docs-in-german/)
