@@ -399,3 +399,11 @@
 
 ### Python
 - [The Python documentation is now available in German](https://blog.python.org/2026/09/python-docs-in-german/)
+
+## 2026-09-28
+
+### SQL (PostgreSQL)
+- [PL/Haskell v6.0 Released
+](https://www.postgresql.org/about/news/plhaskell-v60-released-3388/)
+- [pgEdge Announces pgEdge Starfleet, a New Postgres Cloud Platform to Bridge the AI Prototype to Production Chasm
+](https://www.postgresql.org/about/news/pgedge-announces-pgedge-starfleet-a-new-postgres-cloud-platform-to-bridge-the-ai-prototype-to-production-chasm-3389/)
