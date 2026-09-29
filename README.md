@@ -407,3 +407,9 @@
 ](https://www.postgresql.org/about/news/plhaskell-v60-released-3388/)
 - [pgEdge Announces pgEdge Starfleet, a New Postgres Cloud Platform to Bridge the AI Prototype to Production Chasm
 ](https://www.postgresql.org/about/news/pgedge-announces-pgedge-starfleet-a-new-postgres-cloud-platform-to-bridge-the-ai-prototype-to-production-chasm-3389/)
+
+## 2026-09-29
+
+### SQL (PostgreSQL)
+- [Dasha 1.8: index recommendations, I/O analysis, schema checks and log insights
+](https://www.postgresql.org/about/news/dasha-18-index-recommendations-io-analysis-schema-checks-and-log-insights-3387/)
