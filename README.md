@@ -413,3 +413,12 @@
 ### SQL (PostgreSQL)
 - [Dasha 1.8: index recommendations, I/O analysis, schema checks and log insights
 ](https://www.postgresql.org/about/news/dasha-18-index-recommendations-io-analysis-schema-checks-and-log-insights-3387/)
+
+## 2026-09-30
+
+### Python
+- [Python Language Summit 2026](https://blog.python.org/2026/09/language-summit-2026/)
+- [Lightning Talks (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-lightning-talks/)
+- [PEP 827: Type Manipulation (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/)
+- [Free-Threaded Python Post-Era (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/)
+- [Developer-in-Residence Update & Future (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/)
