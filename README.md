@@ -422,3 +422,8 @@
 - [PEP 827: Type Manipulation (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-pep-827-type-manipulation/)
 - [Free-Threaded Python Post-Era (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-free-threading-post-era/)
 - [Developer-in-Residence Update & Future (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-developer-in-residence-update-and-future/)
+
+## 2026-10-01
+
+### Python
+- [Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!](https://blog.python.org/2026/10/python-31022-31117/)
