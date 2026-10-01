@@ -427,3 +427,7 @@
 
 ### Python
 - [Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!](https://blog.python.org/2026/10/python-31022-31117/)
+
+### SQL (PostgreSQL)
+- [Pgpool-II 4.7.3, 4.6.8, 4.5.13, 4.4.18 and 4.3.21 released.
+](https://www.postgresql.org/about/news/pgpool-ii-473-468-4513-4418-and-4321-released-3390/)
