@@ -431,3 +431,8 @@
 ### SQL (PostgreSQL)
 - [Pgpool-II 4.7.3, 4.6.8, 4.5.13, 4.4.18 and 4.3.21 released.
 ](https://www.postgresql.org/about/news/pgpool-ii-473-468-4513-4418-and-4321-released-3390/)
+
+## 2026-10-02
+
+### Supabase
+- [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso)
