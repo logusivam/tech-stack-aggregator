@@ -436,3 +436,12 @@
 
 ### Supabase
 - [Supabase is acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso)
+
+### Python
+- [Python 3.15.0 candidate 3 is here!](https://blog.python.org/2026/10/python-3150-rc3/)
+
+### Supabase
+- [Supabase Select 2026 Recap](https://supabase.com/blog/supabase-select-2026-recap)
+- [Scale without limits: Multigres, OrioleDB, and dbarena](https://supabase.com/blog/select-2026-scale-without-limits)
+- [Operate with confidence](https://supabase.com/blog/select-2026-operate-with-confidence)
+- [Build anything: Supabase from code, and an MCP server for your app](https://supabase.com/blog/select-2026-build-anything)
