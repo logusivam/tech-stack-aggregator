@@ -455,3 +455,7 @@
 ](https://www.postgresql.org/about/news/pg_vault_tde-v172-critical-crash-fixes-new-on-disk-format-and-stability-improvements-3393/)
 - [pgvector 0.8.7 Released
 ](https://www.postgresql.org/about/news/pgvector-087-released-3392/)
+
+### SQL (PostgreSQL)
+- [dbForge 2026.2 Adds a PostgreSQL Debugger, Visual Object Editors and Broader Context for dbForge AI Assistant
+](https://www.postgresql.org/about/news/dbforge-20262-adds-a-postgresql-debugger-visual-object-editors-and-broader-context-for-dbforge-ai-assistant-3394/)
