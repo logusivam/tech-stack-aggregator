@@ -445,3 +445,13 @@
 - [Scale without limits: Multigres, OrioleDB, and dbarena](https://supabase.com/blog/select-2026-scale-without-limits)
 - [Operate with confidence](https://supabase.com/blog/select-2026-operate-with-confidence)
 - [Build anything: Supabase from code, and an MCP server for your app](https://supabase.com/blog/select-2026-build-anything)
+
+## 2026-10-05
+
+### SQL (PostgreSQL)
+- [pg_ivm 1.16 released
+](https://www.postgresql.org/about/news/pg_ivm-116-released-3391/)
+- [pg_vault_tde v1.7.2 : Critical crash fixes, new on-disk format, and stability improvements
+](https://www.postgresql.org/about/news/pg_vault_tde-v172-critical-crash-fixes-new-on-disk-format-and-stability-improvements-3393/)
+- [pgvector 0.8.7 Released
+](https://www.postgresql.org/about/news/pgvector-087-released-3392/)
