@@ -467,3 +467,6 @@
 ](https://www.postgresql.org/about/news/pgx-bm25-10-bm25-ranked-full-text-search-as-a-native-postgresql-index-3396/)
 - [pg_plan_filter 1.0.0 released
 ](https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/)
+
+### Node.js
+- [Node.js 26.11.0 (Current)](https://nodejs.org/en/blog/release/v26.11.0)
