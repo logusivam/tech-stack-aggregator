@@ -459,3 +459,11 @@
 ### SQL (PostgreSQL)
 - [dbForge 2026.2 Adds a PostgreSQL Debugger, Visual Object Editors and Broader Context for dbForge AI Assistant
 ](https://www.postgresql.org/about/news/dbforge-20262-adds-a-postgresql-debugger-visual-object-editors-and-broader-context-for-dbforge-ai-assistant-3394/)
+
+## 2026-10-07
+
+### SQL (PostgreSQL)
+- [pgx-bm25 1.0: BM25 ranked full-text search as a native PostgreSQL index
+](https://www.postgresql.org/about/news/pgx-bm25-10-bm25-ranked-full-text-search-as-a-native-postgresql-index-3396/)
+- [pg_plan_filter 1.0.0 released
+](https://www.postgresql.org/about/news/pg_plan_filter-100-released-3352/)
