@@ -470,3 +470,8 @@
 
 ### Node.js
 - [Node.js 26.11.0 (Current)](https://nodejs.org/en/blog/release/v26.11.0)
+
+## 2026-10-08
+
+### Node.js
+- [Node.js 26.11.1 (Current)](https://nodejs.org/en/blog/release/v26.11.1)
