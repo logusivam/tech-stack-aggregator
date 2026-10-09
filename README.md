@@ -475,3 +475,12 @@
 
 ### Node.js
 - [Node.js 26.11.1 (Current)](https://nodejs.org/en/blog/release/v26.11.1)
+
+## 2026-10-09
+
+### Python
+- [Python 3.15.0 (final) is here!](https://blog.python.org/2026/10/python-3150-final-is-here/)
+
+### SQL (PostgreSQL)
+- [2026-10-07: PostgreSQL JDBC 42.7.14 Security update for multiple CVE&#x27;s
+](https://www.postgresql.org/about/news/2026-10-07-postgresql-jdbc-42714-security-update-for-multiple-cves-3399/)
