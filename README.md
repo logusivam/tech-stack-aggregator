@@ -484,3 +484,9 @@
 ### SQL (PostgreSQL)
 - [2026-10-07: PostgreSQL JDBC 42.7.14 Security update for multiple CVE&#x27;s
 ](https://www.postgresql.org/about/news/2026-10-07-postgresql-jdbc-42714-security-update-for-multiple-cves-3399/)
+
+## 2026-10-12
+
+### Supabase
+- [Getting started with the Supabase .NET SDK](https://supabase.com/blog/getting-started-with-the-supabase-dotnet-sdk)
+- [Introducing the unified Supabase .NET SDK](https://supabase.com/blog/introducing-the-unified-supabase-net-sdk)
