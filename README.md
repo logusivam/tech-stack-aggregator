@@ -490,3 +490,12 @@
 ### Supabase
 - [Getting started with the Supabase .NET SDK](https://supabase.com/blog/getting-started-with-the-supabase-dotnet-sdk)
 - [Introducing the unified Supabase .NET SDK](https://supabase.com/blog/introducing-the-unified-supabase-net-sdk)
+
+## 2026-10-13
+
+### Python
+- [Python 3.16.0 alpha 1 is now available](https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/)
+
+### Supabase
+- [Declarative Schemas 2.0 with pg-delta](https://supabase.com/blog/declarative-schemas-2-0-pg-delta)
+- [Ship changes to your Supabase backend with Grok Bot](https://supabase.com/blog/ship-changes-to-your-supabase-backend-with-grok-bot)
