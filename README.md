@@ -499,3 +499,15 @@
 ### Supabase
 - [Declarative Schemas 2.0 with pg-delta](https://supabase.com/blog/declarative-schemas-2-0-pg-delta)
 - [Ship changes to your Supabase backend with Grok Bot](https://supabase.com/blog/ship-changes-to-your-supabase-backend-with-grok-bot)
+
+## 2026-10-14
+
+### SQL (PostgreSQL)
+- [Perseid 0.1.0 is now available
+](https://www.postgresql.org/about/news/perseid-010-is-now-available-3405/)
+- [psqlODBC 18.00.0005 released with security fix for CVE-2026-109448
+](https://www.postgresql.org/about/news/psqlodbc-18000005-released-with-security-fix-for-cve-2026-109448-3404/)
+- [PgBouncer 1.26.1 released - Fixes three CVEs
+](https://www.postgresql.org/about/news/pgbouncer-1261-released-fixes-three-cves-3403/)
+- [Introducing pglifecycle 2.0 beta
+](https://www.postgresql.org/about/news/introducing-pglifecycle-20-beta-3401/)
