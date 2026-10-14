@@ -516,3 +516,6 @@
 - [Node.js 24.22.0 (LTS)](https://nodejs.org/en/blog/release/v24.22.0)
 - [Node.js 26.12.0 (Current)](https://nodejs.org/en/blog/release/v26.12.0)
 - [Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
+
+### Supabase
+- [How we made the Supabase Select 2026 badge](https://supabase.com/blog/how-we-made-the-supabase-select-2026-badge)
