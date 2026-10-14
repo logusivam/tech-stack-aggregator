@@ -511,3 +511,8 @@
 ](https://www.postgresql.org/about/news/pgbouncer-1261-released-fixes-three-cves-3403/)
 - [Introducing pglifecycle 2.0 beta
 ](https://www.postgresql.org/about/news/introducing-pglifecycle-20-beta-3401/)
+
+### Node.js
+- [Node.js 24.22.0 (LTS)](https://nodejs.org/en/blog/release/v24.22.0)
+- [Node.js 26.12.0 (Current)](https://nodejs.org/en/blog/release/v26.12.0)
+- [Wednesday, October 21, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases)
