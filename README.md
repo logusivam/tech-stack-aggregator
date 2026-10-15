@@ -528,3 +528,7 @@
 
 ### Supabase
 - [Sync real-time Stripe data to Supabase with Stripe Data Pipeline](https://supabase.com/blog/stripe-data-pipeline-now-syncs-real-time-data-to-supabase)
+
+### Supabase
+- [How a new branch gets its config, migrations, and functions](https://supabase.com/blog/how-a-new-branch-gets-its-config-migrations-and-functions)
+- [A local Supabase project per agent, with or without Docker](https://supabase.com/blog/local-supabase-project-per-agent-with-or-without-docker)
