@@ -525,3 +525,6 @@
 ### SQL (PostgreSQL)
 - [PostgreSQL 19 RC 1 Released!
 ](https://www.postgresql.org/about/news/postgresql-19-rc-1-released-3409/)
+
+### Supabase
+- [Sync real-time Stripe data to Supabase with Stripe Data Pipeline](https://supabase.com/blog/stripe-data-pipeline-now-syncs-real-time-data-to-supabase)
