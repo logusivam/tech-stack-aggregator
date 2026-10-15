@@ -519,3 +519,9 @@
 
 ### Supabase
 - [How we made the Supabase Select 2026 badge](https://supabase.com/blog/how-we-made-the-supabase-select-2026-badge)
+
+## 2026-10-15
+
+### SQL (PostgreSQL)
+- [PostgreSQL 19 RC 1 Released!
+](https://www.postgresql.org/about/news/postgresql-19-rc-1-released-3409/)
