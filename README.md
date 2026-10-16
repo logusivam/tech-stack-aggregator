@@ -532,3 +532,8 @@
 ### Supabase
 - [How a new branch gets its config, migrations, and functions](https://supabase.com/blog/how-a-new-branch-gets-its-config-migrations-and-functions)
 - [A local Supabase project per agent, with or without Docker](https://supabase.com/blog/local-supabase-project-per-agent-with-or-without-docker)
+
+## 2026-10-16
+
+### Supabase
+- [Supabase Middleware: composable, reusable middleware for Web Fetch handlers](https://supabase.com/blog/supabase-middleware)
