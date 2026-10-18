@@ -551,3 +551,7 @@
 ](https://www.postgresql.org/about/news/pg_hint_plan-v190-released-3408/)
 - [FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open!
 ](https://www.postgresql.org/about/news/fosdem-pgday-2027-two-days-of-postgresql-with-calls-for-papers-and-sponsors-now-open-3412/)
+
+### SQL (PostgreSQL)
+- [pgBackRest 2.60.0 Released
+](https://www.postgresql.org/about/news/pgbackrest-2600-released-3416/)
