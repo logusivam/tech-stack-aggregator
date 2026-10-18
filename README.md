@@ -545,3 +545,9 @@
 ](https://www.postgresql.org/about/news/pg_utl_smtp-v20-released-3395/)
 - [crecheck v6.0 has been released
 ](https://www.postgresql.org/about/news/crecheck-v60-has-been-released-3407/)
+
+### SQL (PostgreSQL)
+- [pg_hint_plan v1.9.0 Released
+](https://www.postgresql.org/about/news/pg_hint_plan-v190-released-3408/)
+- [FOSDEM PGDay 2027: two days of PostgreSQL, with calls for papers and sponsors now open!
+](https://www.postgresql.org/about/news/fosdem-pgday-2027-two-days-of-postgresql-with-calls-for-papers-and-sponsors-now-open-3412/)
