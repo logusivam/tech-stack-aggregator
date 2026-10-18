@@ -537,3 +537,11 @@
 
 ### Supabase
 - [Supabase Middleware: composable, reusable middleware for Web Fetch handlers](https://supabase.com/blog/supabase-middleware)
+
+## 2026-10-18
+
+### SQL (PostgreSQL)
+- [pg_utl_smtp v2.0 released
+](https://www.postgresql.org/about/news/pg_utl_smtp-v20-released-3395/)
+- [crecheck v6.0 has been released
+](https://www.postgresql.org/about/news/crecheck-v60-has-been-released-3407/)
