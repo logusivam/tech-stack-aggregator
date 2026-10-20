@@ -564,3 +564,9 @@
 ### SQL (PostgreSQL)
 - [RHEL 10.0 and 9.6 repositories are being retired
 ](https://www.postgresql.org/about/news/rhel-100-and-96-repositories-are-being-retired-3411/)
+
+### SQL (PostgreSQL)
+- [FOSSASIA PGDay 2027: Bangkok, 9 March – CFP Open
+](https://www.postgresql.org/about/news/fossasia-pgday-2027-bangkok-9-march-cfp-open-3398/)
+- [SLES 15.6 repositories are being retired
+](https://www.postgresql.org/about/news/sles-156-repositories-are-being-retired-3415/)
