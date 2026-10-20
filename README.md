@@ -555,3 +555,12 @@
 ### SQL (PostgreSQL)
 - [pgBackRest 2.60.0 Released
 ](https://www.postgresql.org/about/news/pgbackrest-2600-released-3416/)
+
+## 2026-10-20
+
+### Supabase
+- [Operate with confidence: check production with your coding agent](https://supabase.com/blog/operate-with-confidence-check-production-with-your-coding-agent)
+
+### SQL (PostgreSQL)
+- [RHEL 10.0 and 9.6 repositories are being retired
+](https://www.postgresql.org/about/news/rhel-100-and-96-repositories-are-being-retired-3411/)
