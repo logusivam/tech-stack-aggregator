@@ -570,3 +570,10 @@
 ](https://www.postgresql.org/about/news/fossasia-pgday-2027-bangkok-9-march-cfp-open-3398/)
 - [SLES 15.6 repositories are being retired
 ](https://www.postgresql.org/about/news/sles-156-repositories-are-being-retired-3415/)
+
+## 2026-10-21
+
+### Node.js
+- [Node.js 26.12.1 (Current)](https://nodejs.org/en/blog/release/v26.12.1)
+- [Node.js 24.22.1 (LTS)](https://nodejs.org/en/blog/release/v24.22.1)
+- [Node.js 22.23.4 (LTS)](https://nodejs.org/en/blog/release/v22.23.4)
