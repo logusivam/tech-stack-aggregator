@@ -577,3 +577,6 @@
 - [Node.js 26.12.1 (Current)](https://nodejs.org/en/blog/release/v26.12.1)
 - [Node.js 24.22.1 (LTS)](https://nodejs.org/en/blog/release/v24.22.1)
 - [Node.js 22.23.4 (LTS)](https://nodejs.org/en/blog/release/v22.23.4)
+
+### Python
+- [Python 3.15.1, 3.14.9 and 3.13.17 are out](https://blog.python.org/2026/10/python-3151-3149-31317/)
