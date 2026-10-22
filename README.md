@@ -594,3 +594,6 @@
 ](https://www.postgresql.org/about/news/pgrecon-open-source-oracle-to-postgresql-migration-assessment-and-schema-conversion-3410/)
 - [SafeGrd: PostgreSQL backups that are restored and checked on a schedule
 ](https://www.postgresql.org/about/news/safegrd-postgresql-backups-that-are-restored-and-checked-on-a-schedule-3414/)
+
+### Supabase
+- [Give your Supabase app its own MCP server](https://supabase.com/blog/give-your-supabase-app-its-own-mcp-server)
