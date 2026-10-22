@@ -588,3 +588,9 @@
 ](https://www.postgresql.org/about/news/backupdrill-open-source-supabase-postgres-backups-with-automated-restore-drills-3413/)
 - [pgCluu v5.0 has been released
 ](https://www.postgresql.org/about/news/pgcluu-v50-has-been-released-3417/)
+
+### SQL (PostgreSQL)
+- [pgrecon: open-source Oracle to PostgreSQL migration assessment and schema conversion
+](https://www.postgresql.org/about/news/pgrecon-open-source-oracle-to-postgresql-migration-assessment-and-schema-conversion-3410/)
+- [SafeGrd: PostgreSQL backups that are restored and checked on a schedule
+](https://www.postgresql.org/about/news/safegrd-postgresql-backups-that-are-restored-and-checked-on-a-schedule-3414/)
