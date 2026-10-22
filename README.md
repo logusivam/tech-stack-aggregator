@@ -580,3 +580,11 @@
 
 ### Python
 - [Python 3.15.1, 3.14.9 and 3.13.17 are out](https://blog.python.org/2026/10/python-3151-3149-31317/)
+
+## 2026-10-22
+
+### SQL (PostgreSQL)
+- [BackupDrill: open-source Supabase Postgres backups with automated restore drills
+](https://www.postgresql.org/about/news/backupdrill-open-source-supabase-postgres-backups-with-automated-restore-drills-3413/)
+- [pgCluu v5.0 has been released
+](https://www.postgresql.org/about/news/pgcluu-v50-has-been-released-3417/)
