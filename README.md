@@ -602,3 +602,11 @@
 
 ### Python
 - [Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out](https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/)
+
+### SQL (PostgreSQL)
+- [pg_ivm 1.17 released
+](https://www.postgresql.org/about/news/pg_ivm-117-released-3420/)
+- [HypoPG 1.4.4 is out!
+](https://www.postgresql.org/about/news/hypopg-144-is-out-3421/)
+- [pg_hdr_histogram 1.0.0 - exact percentiles in PostgreSQL
+](https://www.postgresql.org/about/news/pg_hdr_histogram-100-exact-percentiles-in-postgresql-3418/)
