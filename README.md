@@ -597,3 +597,8 @@
 
 ### Supabase
 - [Give your Supabase app its own MCP server](https://supabase.com/blog/give-your-supabase-app-its-own-mcp-server)
+
+## 2026-10-26
+
+### Python
+- [Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out](https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/)
