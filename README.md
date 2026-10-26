@@ -610,3 +610,6 @@
 ](https://www.postgresql.org/about/news/hypopg-144-is-out-3421/)
 - [pg_hdr_histogram 1.0.0 - exact percentiles in PostgreSQL
 ](https://www.postgresql.org/about/news/pg_hdr_histogram-100-exact-percentiles-in-postgresql-3418/)
+
+### Supabase
+- [Scope your Personal Access Tokens](https://supabase.com/blog/scope-your-personal-access-tokens)
