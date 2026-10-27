@@ -613,3 +613,8 @@
 
 ### Supabase
 - [Scope your Personal Access Tokens](https://supabase.com/blog/scope-your-personal-access-tokens)
+
+## 2026-10-27
+
+### Supabase
+- [Supabase Compute: run your agents inside your project](https://supabase.com/blog/supabase-compute-private-alpha)
