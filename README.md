@@ -639,3 +639,6 @@
 ](https://www.postgresql.org/about/news/revivedb-supabase-backups-restore-tested-against-the-source-schema-3422/)
 - [PostgreSQL Anonymizer 3.3 : Major Security Update
 ](https://www.postgresql.org/about/news/postgresql-anonymizer-33-major-security-update-3423/)
+
+### Node.js
+- [Node.js 24.22.2 (LTS)](https://nodejs.org/en/blog/release/v24.22.2)
