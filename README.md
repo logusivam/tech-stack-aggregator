@@ -618,3 +618,24 @@
 
 ### Supabase
 - [Supabase Compute: run your agents inside your project](https://supabase.com/blog/supabase-compute-private-alpha)
+
+## 2026-10-28
+
+### Node.js
+- [Node.js 26.13.0 (LTS)](https://nodejs.org/en/blog/release/v26.13.0)
+
+### Supabase
+- [Automate your Supabase backend with Make](https://supabase.com/blog/automate-your-supabase-backend-with-make)
+- [OrioleDB public beta: a Postgres storage engine for update-heavy tables](https://supabase.com/blog/orioledb-public-beta)
+
+### SQL (PostgreSQL)
+- [PostgreSQL@SCaLE24x CfP closing soon on Nov 1, 2027
+](https://www.postgresql.org/about/news/postgresqlscale24x-cfp-closing-soon-on-nov-1-2027-3363/)
+- [Estuary Expands PostgreSQL CDC with Targeted Backfills and Scalable Discovery
+](https://www.postgresql.org/about/news/estuary-expands-postgresql-cdc-with-targeted-backfills-and-scalable-discovery-3419/)
+- [Oxynote: an open source internal wiki with live PostgreSQL query charts
+](https://www.postgresql.org/about/news/oxynote-an-open-source-internal-wiki-with-live-postgresql-query-charts-3406/)
+- [ReviveDB: Supabase backups restore-tested against the source schema
+](https://www.postgresql.org/about/news/revivedb-supabase-backups-restore-tested-against-the-source-schema-3422/)
+- [PostgreSQL Anonymizer 3.3 : Major Security Update
+](https://www.postgresql.org/about/news/postgresql-anonymizer-33-major-security-update-3423/)
