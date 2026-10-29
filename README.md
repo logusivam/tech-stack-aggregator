@@ -642,3 +642,8 @@
 
 ### Node.js
 - [Node.js 24.22.2 (LTS)](https://nodejs.org/en/blog/release/v24.22.2)
+
+## 2026-10-29
+
+### Supabase
+- [Multigres private alpha: automatic failover for Supabase Postgres](https://supabase.com/blog/multigres-private-alpha)
