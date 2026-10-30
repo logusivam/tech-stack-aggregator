@@ -647,3 +647,8 @@
 
 ### Supabase
 - [Multigres private alpha: automatic failover for Supabase Postgres](https://supabase.com/blog/multigres-private-alpha)
+
+## 2026-10-30
+
+### Node.js
+- [Node.js 27.0.0-alpha.0.0.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0)
