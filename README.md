@@ -652,3 +652,6 @@
 
 ### Node.js
 - [Node.js 27.0.0-alpha.0.0.0 (Alpha)](https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0)
+
+### Supabase
+- [Explorer and Notebooks: investigations your team can rerun](https://supabase.com/blog/explorer-and-notebooks-investigations-your-team-can-rerun)
