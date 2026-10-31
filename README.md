@@ -655,3 +655,14 @@
 
 ### Supabase
 - [Explorer and Notebooks: investigations your team can rerun](https://supabase.com/blog/explorer-and-notebooks-investigations-your-team-can-rerun)
+
+## 2026-10-31
+
+### Supabase
+- [Introducing DBArena: open, reproducible benchmarks for hosted Postgres](https://supabase.com/blog/introducing-dbarena)
+
+### SQL (PostgreSQL)
+- [E-Maj 5.0.1 : Major Security Update.
+](https://www.postgresql.org/about/news/e-maj-501-major-security-update-3425/)
+- [pgAdmin 4 v9.19 Released
+](https://www.postgresql.org/about/news/pgadmin-4-v919-released-3426/)
